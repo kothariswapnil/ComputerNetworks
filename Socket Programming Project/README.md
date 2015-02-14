@@ -35,14 +35,14 @@
 			
 		3.  To compile the program simply type:
 				make
-			on the nunki's / Linux shell prompt.
+			on the nunki's / Linux (Remove -lsocket from Makefile to run on Linux) shell prompt.
 			The program should compile without errors or warnings. The output should be
 			four programs:
 				1. healthcenterserver
 				2. doctor
 				3. patient1
 				4. patient2
-
+			  
 		4.  To execute the program, open four terminal windows connected to nunki's shell.
 			On one of the window, type:
 				./healthcenterserver
