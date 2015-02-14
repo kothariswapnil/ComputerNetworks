@@ -35,7 +35,7 @@
 			
 		3.  To compile the program simply type:
 				make
-			on the nunki's / Linux (Remove -lsocket from Makefile to run on Linux) shell prompt.
+			on the nunki's / Linux (Remove -lsocket from Makefile to run on Linux/Ubuntu) shell prompt.
 			The program should compile without errors or warnings. The output should be
 			four programs:
 				1. healthcenterserver
